@@ -1,6 +1,5 @@
 # Hi 👋, I'm Tran Nguyen Thien Phuoc
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TranNguyenThienPhuoc&label=Profile views&color=0e75b6&style=flat" alt="TranNguyenThienPhuoc" /> </p>
 <h2>About Me</h2>
 <p>🔭 I’m currently working on: Advanced Frontend Web (ReactJS, TypeScript)</p>
 <p>🌱 I’m currently learning: System Design, DevOps, and Frontend Architecture.</p>
