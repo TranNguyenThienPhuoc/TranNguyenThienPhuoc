@@ -1,10 +1,15 @@
 # Hi 👋, I'm Tran Nguyen Thien Phuoc
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TranNguyenThienPhuoc&label=Profile views&color=0e75b6&style=flat" alt="TranNguyenThienPhuoc" /> </p>
+<h2>About Me</h2>
+<p>🔭 I’m currently working on: Advanced Frontend Web (ReactJS, TypeScript)</p>
+<p>🌱 I’m currently learning: System Design, DevOps, and Frontend Architecture.</p>
+<p>👯 I’m looking to collaborate on: Open Source Projects & Frontend Web.</p>
+<p>🤔 I’m looking for help with: Building scalable and production-ready systems.</p>
+<p>💬 Ask me about: Frontend Development, UI/UX optimization, and Football ⚽</p>
+<p>📫 How to reach me: tranp13579@gmail.com</p>
+<p>🎓 I’m an Information Technology Student seeking Software Engineering / Web Development Internship opportunities.</p>
 
-- 💬 Ask me about **HTML/CSS , React.js, TypeSCript**
-
-- 📫 How to reach me **tranp13579@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
