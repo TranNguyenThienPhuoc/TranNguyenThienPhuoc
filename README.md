@@ -5,7 +5,7 @@
 <p>I’m currently learning: System Design, DevOps, and Frontend Architecture.</p>
 <p>I’m looking to collaborate on: Open Source Projects & Frontend Web.</p>
 <p>I’m looking for help with: Building scalable and production-ready systems.</p>
-<p>Ask me about: Frontend Development, UI/UX optimization, and Football ⚽</p>
+<p>Ask me about: Frontend Development, UI/UX optimization, and Football.</p>
 <p>How to reach me: tranp13579@gmail.com</p>
 <p>I’m an Information Technology Student seeking Software Engineering / Web Development Internship opportunities.</p>
 
