@@ -1,13 +1,13 @@
 # Hi 👋, I'm Tran Nguyen Thien Phuoc
 
 <h2>About Me</h2>
-<p>🔭 I’m currently working on: Advanced Frontend Web (ReactJS, TypeScript)</p>
-<p>🌱 I’m currently learning: System Design, DevOps, and Frontend Architecture.</p>
-<p>👯 I’m looking to collaborate on: Open Source Projects & Frontend Web.</p>
-<p>🤔 I’m looking for help with: Building scalable and production-ready systems.</p>
-<p>💬 Ask me about: Frontend Development, UI/UX optimization, and Football ⚽</p>
-<p>📫 How to reach me: tranp13579@gmail.com</p>
-<p>🎓 I’m an Information Technology Student seeking Software Engineering / Web Development Internship opportunities.</p>
+<p>I’m currently working on: Advanced Frontend Web (ReactJS, TypeScript)</p>
+<p>I’m currently learning: System Design, DevOps, and Frontend Architecture.</p>
+<p>I’m looking to collaborate on: Open Source Projects & Frontend Web.</p>
+<p>I’m looking for help with: Building scalable and production-ready systems.</p>
+<p>Ask me about: Frontend Development, UI/UX optimization, and Football ⚽</p>
+<p>How to reach me: tranp13579@gmail.com</p>
+<p>I’m an Information Technology Student seeking Software Engineering / Web Development Internship opportunities.</p>
 
 
 <h3 align="left">Connect with me:</h3>
